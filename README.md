@@ -54,7 +54,7 @@ Para ejecutar este proyecto en tu entorno local necesitas:
 
 ## 🌐 Enlace al Proyecto
 
-
+https://github.com/Grepa1290/Alura-Oracle
 
 ---
 
@@ -72,7 +72,7 @@ El proyecto está **completo** con todas las características básicas implement
 
 Para preguntas o sugerencias
 
-- **Correo Electrónico:** gbadilla@gmail.com
+- **Correo Electrónico:** gpbadilla@gmail.com
 - **GitHub:** [@Grepa1290](https://github.com/GaryVT)
 
 ---
